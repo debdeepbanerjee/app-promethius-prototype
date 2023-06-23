@@ -68,7 +68,8 @@ gRPC-spring-boot-starter combines google’s open-source high performance RPC-fr
 
 ## Authors
 
-- [https://github.aexp.com/dbane4)
+- git : https://github.com/debdeepbanerjee
+- Personal email: banerjee.debdeep@gmail.com
 
 Debdeep Banerjee
 ## Documentation
